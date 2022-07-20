@@ -1,7 +1,7 @@
 ### Hi there, I'm Nanday 😎
 
 ## I'm a Developer, and YouTuber!
-- 🔭 I’m currently working on a Java!
+- 🔭 I’m currently working on a Flutter!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
